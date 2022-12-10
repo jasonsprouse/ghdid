@@ -1,0 +1,3 @@
+# ghdid
+
+GitHub JSONLD verification.
